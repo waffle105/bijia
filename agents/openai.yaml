@@ -1,0 +1,8 @@
+interface:
+  display_name: "三方比价与合同"
+  short_description: "生成三家独立版式比价单、含图物料清单及模板合同的完整采购文件包"
+  brand_color: "#8B1E2D"
+  default_prompt: "使用 $bijia 根据我提供的项目、公司与报价信息生成三方比价单、含图物料清单和合同。"
+
+policy:
+  allow_implicit_invocation: true
